@@ -1,0 +1,37 @@
+[
+  {
+    "type": "text",
+    "required": true,
+    "text": "meow?",
+    "placeholder": "maow maow meow maow",
+    "options": []
+  },
+  {
+    "type": "text",
+    "required": true,
+    "text": "meow?",
+    "placeholder": "maow maow meow maow",
+    "options": []
+  },
+  {
+    "type": "text",
+    "required": false,
+    "text": "meow?",
+    "placeholder": "maow maow meow maow",
+    "options": [
+      {
+        "type": "radio",
+        "required": true,
+        "text": "maow! ^_^",
+        "placeholder": "maow maow meow maow"
+      },
+      {
+        "type": "radio",
+        "required": true,
+        "text": "mraow 😡",
+        "placeholder": "maow maow meow maow maow :3",
+        "labelClass": "select-other"
+      }
+    ]
+  }
+]
